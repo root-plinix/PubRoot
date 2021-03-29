@@ -9,7 +9,7 @@ $ apt upgrade
 $ apt install python -y  
 $ apt install python2 -y 
 $ apt install git -y 
-$ pip install -r requirements.txt
+$ pip install requests
 $ git clone https://github.com/root-plinix/PubRoot
 ```
 ### Conclusion
